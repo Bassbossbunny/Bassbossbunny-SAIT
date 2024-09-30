@@ -31,10 +31,10 @@ Because both the gameplay and narrative are so seamlessly intertwined, players f
 
 Having narrative cohesion, or avoiding narrative dissonance, seems to embolden players to commit fully to the game, no longer fearing if their efforts will be noticed. 
 
-I would write more, but I do not want to give you, dear reader, a novel. 
-Thank you for your time! I hope you are mindful when picking up your next game and asking yourself "Are my actions in line with the story?"
+    I would write more, but I do not want to give you, dear reader, a novel. 
+    Thank you for your time! I hope you are mindful when picking up your next game and asking yourself "Are my actions in line with the story?"
 
-![Picture of Zagreus, main character from HADES.](/Photo/Hades_Homepage_logo_goty.png)
+![Picture of Zagreus, main character from HADES.](/Photo/Zagreus%20side.png)
 
 [1] [Wikipedia: Ludonarrative Dissonance](https://en.wikipedia.org/wiki/Ludonarrative_dissonance)
 
