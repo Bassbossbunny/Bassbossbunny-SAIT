@@ -36,6 +36,7 @@ Having narrative cohesion, or avoiding narrative dissonance, seems to embolden p
 
 ![Picture of Zagreus, main character from HADES.](/Photo/Zagreus%20side.png)
 
+### References:
 [1] [Wikipedia: Ludonarrative Dissonance](https://en.wikipedia.org/wiki/Ludonarrative_dissonance)
 
 [2] [SuperGiant Games: Hades](https://www.supergiantgames.com/games/hades/)
