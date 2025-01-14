@@ -1,6 +1,8 @@
 /*Headers*/
 h1,h2 { color: #165F7F;
 }
+h1 {
+    text-decoration-line: underline;}
 
 /* Body*/
 body {
