@@ -1,10 +1,27 @@
 /*Headers*/
-h1,h2 { color: #165F7F;
+h1,h2 { color: #4e0736;
 }
 h1 {
     text-decoration-line: underline;}
 
 /* Body*/
 body {
-background-color: #B2DBBF;
+background-color: #f8d4e9;
+}
+#first {
+    color: #cf7d95;
+}
+
+/*classes */
+li.words {
+    color: #ffffff;
+    background-color: black;
+}
+li.flower {
+    background-color: #5f2544;
+}
+
+div.header {
+    background-color: #541d3b;
+    color: #ffffff;
 }
